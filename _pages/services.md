@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /candidate-care/
+permalink: /services/
 ---
 
 ## Candidate Care
