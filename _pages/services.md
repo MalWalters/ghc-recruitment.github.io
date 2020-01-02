@@ -3,15 +3,34 @@ layout: default
 permalink: /services/
 ---
 
-## Candidate Care
+## Our Services
 
-  Market forces imposes fierce demands on all candidates. Many candidates often experience career changes; unexpected personal challenges and a lack of clarity with their career path. This process can lead to frustration; stress; anxiety and a sense of fear for many individuals. At GHC we partner with our candidates to provide them with the expertize required to empower them with their employment choices.
+  At GHC both clients and candidates can appreciate our unique standards of service. We take the steps to ensure each recruitment assignment is resourced effectively to meet both client requirements and candidate expectations.
 
-We offer you:
 
-  - Access to specialist consultants across multi disciplines
-  - Local and global expertise ( International consultants that can facilitate new career path)
-  - Professionalism ( Standards of care and Practice)
-  - Complimentary resume guidance and preparation
-  - Complimentary interview workshops
-  - Complimentary career coaching and workshops
+At GHC we offer:
+
+  - Experienced consultants with demonstrated understanding of the complexity of your business sector
+  - Access to quality locally and/or globally sourced candidates that are suitable for your business requirements
+  - Transparency of the recruitment lifecycle – ”end to end”
+  - Access to high calibre professionals faster than our competitors ( Competitive “time to fill” placements) *
+  - Access to niche candidates for highly specialised roles ( access to qualified , effectively sourced alternative talent) *
+  - Invoice accuracy- detailed coverage of each recruitment assignment
+  - Offering of tailored assignments ( lowering your talent acquisition costs) *
+  - Effective risk managed recruitment service with a well governed process *
+  - Compliant and efficient automated process
+  - Transparency of candidate pool ( Consistent levels of engagement ) *
+  - Performance Management Services on offer
+  - Regular market updates ( Access to salary benchmarking and market trend information)
+  - Measurement success client surveys *
+  - Data driven insights and metrics for ongoing improvement to service levels *
+
+<div class = "services-scope">
+  <h2>Scope of Services</h2>
+  <ul>
+  <li>Permanent Hires</li>
+  <li>Fixed term contract hires</li>
+  <li>Consultant services ( Transformation and Project Management)</li>
+  <li>Contractors ( TBD )*</li>
+  </ul>
+</div>
