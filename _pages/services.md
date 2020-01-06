@@ -19,18 +19,21 @@ At GHC we offer:
   - Offering of tailored assignments ( lowering your talent acquisition costs) *
   - Effective risk managed recruitment service with a well governed process *
   - Compliant and efficient automated process
-  - Transparency of candidate pool ( Consistent levels of engagement ) *
+  - Transparency of candidate pool (Consistent levels of engagement) *
   - Performance Management Services on offer
-  - Regular market updates ( Access to salary benchmarking and market trend information)
+  - Regular market updates (Access to salary benchmarking and market trend information)
   - Measurement success client surveys *
   - Data driven insights and metrics for ongoing improvement to service levels *
 
 <div class = "services-scope">
   <h2>Scope of Services</h2>
   <ul>
-  <li>Permanent Hires</li>
-  <li>Fixed term contract hires</li>
-  <li>Consultant services ( Transformation and Project Management)</li>
-  <li>Contractors ( TBD )*</li>
+    <li>Permanent Hires</li>
+    <li>Fixed term contract hires</li>
+    <li>Consultant services ( Transformation and Project Management)</li>
+    <li>Contractors ( TBD )*</li>
+    <li>Consultation from commencement of search through to post placement</li>
+    <li>Hiring Manager engagement and workshops ( * as required)</li>
+    <li>Robust candidate care program</li>
   </ul>
 </div>
