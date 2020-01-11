@@ -4,7 +4,6 @@ permalink: /services/
 ---
 
 ## Our Services
-
 At GHC both clients and candidates can appreciate our unique standards of service. We take the steps to ensure each recruitment assignment is effectively resourced to meet both client requirements and candidate expectations.
 
 At GHC both clients and candidates can appreciate our unique standards of service. We take the steps to ensure each recruitment assignment is effectively resourced to meet both client requirements and candidate expectations.
