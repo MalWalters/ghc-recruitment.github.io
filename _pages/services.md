@@ -5,16 +5,17 @@ permalink: /services/
 
 ## Our Services
 
-  At GHC both clients and candidates can appreciate our unique standards of service. We take the steps to ensure each recruitment assignment is resourced effectively to meet both client requirements and candidate expectations.
+At GHC both clients and candidates can appreciate our unique standards of service. We take the steps to ensure each recruitment assignment is effectively resourced to meet both client requirements and candidate expectations.
 
+At GHC both clients and candidates can appreciate our unique standards of service. We take the steps to ensure each recruitment assignment is effectively resourced to meet both client requirements and candidate expectations.
 
 At GHC we offer:
 
   - Experienced consultants with demonstrated understanding of the complexity of your business sector
   - Access to quality locally and/or globally sourced candidates that are suitable for your business requirements
   - Transparency of the recruitment lifecycle – ”end to end”
-  - Access to high calibre professionals faster than our competitors ( Competitive “time to fill” placements) *
-  - Access to niche candidates for highly specialised roles ( access to qualified , effectively sourced alternative talent) *
+  - Access to high calibre professionals faster than our competitors ( Competitive “time to fill” placements) 
+  - Access to niche candidates for highly specialised roles ( access to qualified , effectively sourced  talent) 
   - Invoice accuracy- detailed coverage of each recruitment assignment
   - Offering of tailored assignments ( lowering your talent acquisition costs) *
   - Effective risk managed recruitment service with a well governed process *
@@ -31,9 +32,5 @@ At GHC we offer:
     <li>Permanent Hires</li>
     <li>Fixed term contract hires</li>
     <li>Consultant services ( Transformation and Project Management)</li>
-    <li>Contractors ( TBD )*</li>
-    <li>Consultation from commencement of search through to post placement</li>
-    <li>Hiring Manager engagement and workshops ( * as required)</li>
-    <li>Robust candidate care program</li>
   </ul>
 </div>
